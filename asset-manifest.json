@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.6fe828c4.css",
+    "main.js": "/website/static/js/main.61e21362.js",
+    "static/js/787.a7249224.chunk.js": "/website/static/js/787.a7249224.chunk.js",
+    "static/media/insideweather.png": "/website/static/media/insideweather.49259885faf673d6a054.png",
+    "static/media/trustaff.png": "/website/static/media/trustaff.e5fd9f8e9df89859fa7f.png",
+    "static/media/resume.pdf": "/website/static/media/resume.9c968009a55c4e2eee42.pdf",
+    "static/media/attacama.png": "/website/static/media/attacama.26b517ee1f36ae43d172.png",
+    "static/media/collegeboard.png": "/website/static/media/collegeboard.54d79a2e65bac156a338.png",
+    "static/media/slick.svg": "/website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/curve-hr.svg": "/website/static/media/curve-hr.cbdc8e90bbbff51174494b17a5db6755.svg",
+    "static/media/slick.woff": "/website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/website/index.html",
+    "main.6fe828c4.css.map": "/website/static/css/main.6fe828c4.css.map",
+    "main.61e21362.js.map": "/website/static/js/main.61e21362.js.map",
+    "787.a7249224.chunk.js.map": "/website/static/js/787.a7249224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe828c4.css",
+    "static/js/main.61e21362.js"
+  ]
+}
